@@ -12,7 +12,7 @@ Ce dépôt peut être ajouté en tant qu'**extension** dans MakeCode.
 
 ## Tutoriels
 [Tuto du Tic Tac Boom](https://makecode.microbit.org/#tutorial:github:dudleysmith/tictacboom/tutorial)
-[Tuto du Tic Tac Boom](https://makecode.microbit.org/#tutorial:github:dudleysmith/tictacboom/tutorial)
+[Recipe du Tic Tac Boom](https://makecode.microbit.org/#recipe:github:dudleysmith/tictacboom/recipe)
 
 ## Éditer ce projet ![Badge du statut de la compilation](https://github.com/dudleysmith/tictacboom/workflows/MakeCode/badge.svg)
 
