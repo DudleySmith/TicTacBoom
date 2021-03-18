@@ -10,6 +10,9 @@ Ce dépôt peut être ajouté en tant qu'**extension** dans MakeCode.
 * cliquez sur **Extensions** dans le menu engrenage
 * recherchez **https://github.com/dudleysmith/tictacboom** et importez
 
+## Tutoriels
+[Tuto du Tic Tac Boom](https://makecode.microbit.org/#tutorial:github:dudleysmith/tictacboom/tutorial)
+
 ## Éditer ce projet ![Badge du statut de la compilation](https://github.com/dudleysmith/tictacboom/workflows/MakeCode/badge.svg)
 
 Éditer ce dépôt dans MakeCode.
