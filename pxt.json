@@ -11,7 +11,8 @@
         "main.ts",
         "README.md",
         "tutorial.md",
-        "main.py"
+        "main.py",
+        "recipe.ts"
     ],
     "testFiles": [
         "test.ts"

@@ -10,7 +10,12 @@ radio.onReceivedString(function on_received_string(receivedString: string) {
 input.onGesture(Gesture.Shake, function on_gesture_shake() {
     radio.sendString("Relancer")
 })
+function RelancerCompteur() {
+    
+    Compteur = randint(7, 15)
+}
 
+let Compteur = 0
 radio.setGroup(1)
 RelancerCompteur()
 basic.forever(function on_forever() {
