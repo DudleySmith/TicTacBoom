@@ -1,5 +1,5 @@
 {
-    "name": "TicTacBoom2 - Receiver",
+    "name": "TicTacBoom",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -9,7 +9,8 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "tutorial.md"
     ],
     "testFiles": [
         "test.ts"
